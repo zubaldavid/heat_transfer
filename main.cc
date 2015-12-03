@@ -1,4 +1,4 @@
-//David Zubal  &  Don Durham
+
 #include <iostream>
 #include <iomanip>
 #include <array>
